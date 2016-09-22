@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DataFromHtml</string>
+    
+    <string name="placeholder.desc">This event will include Stallion MVP speakers, a pep rally, a spirit squad routine and dance.
+        Doors open at 9pm and close at 1am. This dance will be held on the garage roof top. A $2.00 entrance fee will be processed at the door. Only cash will be accepted. Come out and enjoy food, drinks, and dance the night away with music from a professional DJ.This event is brought to you by SGA.</string>
 
 </resources>
